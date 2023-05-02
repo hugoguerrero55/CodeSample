@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>MinimumOSVersion</key>
+	<string>14.0</string>
+	<key>CFBundleDisplayName</key>
+	<string>Chronos</string>
+	<key>CFBundleVersion</key>
+	<string>1.5.3</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>CFBundleName</key>
+	<string>Chronos</string>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.Chronos.MyiosLaunch</string>
+	<key>NSCameraUsageDescription</key>
+	<string>El usuario requiere acceso a la camara para capturar el codigo QR que defina su actividad asi como una evidencia de su actividad y cambiar la foto de perfil.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>El usuario requiere acceso a la Libreria de fotos para poder cambiar su foto de perfil.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>El usuario quiere acceder a la galeria de fotos para poder llevar a cabo distintos cambios en su perfil.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>El usuario requiere acceder a su micrifono para poder realizar llamadas y notas de voz.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Se requiere acceder a la ubicacion del usuario para poder registrar su actividad.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Se requiere acceder a la ubicacion del usuario para poder registrar su actividad.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Se requiere acceder a la ubicacion del usuario para poder registrar su actividad.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>La aplicación recopila datos para rastrear al usuario, incluidos datos de audio, fotos o videos, direcciones de correo electrónico, número de teléfono, ubicación aproximada, contactos (libreta de direcciones) para poder gestionar la productividad del colaborador en la empresa y generar reportes analíticos para los empleadores.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Chronos Mobile Recopila datos de contactos para enviar mensajes.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Chronos Mobile estampa fechas de movimientos.</string>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Chronos Mobile guarda audio a demanda por el usuario por 15 segundos.</string>
+	<key>NSSiriUsageDescription</key>
+	<string>Chronos Mobile pude ser mandado a llamar por Siri.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Chronos Mobile puede hacer uso de Bluetooth para dispositivos.</string>
+</dict>
+</plist>
